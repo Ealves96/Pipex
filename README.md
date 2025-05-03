@@ -65,13 +65,5 @@ Le projet inclut une gestion complète des erreurs pour :
 ```
 
 ## 🛠️ Technologies et Outils
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 👨‍💻 Auteur
-- **Elie Alves** - [GitHub](https://github.com/votre-username)
-
-## 📄 Licence
-Ce projet est sous licence [MIT](LICENSE).
