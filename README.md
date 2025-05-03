@@ -1,8 +1,8 @@
 
 <!---banner--->
-<h1> align="center"
+<h1 align="center"
 🚀 Pipex
-<\h1>
+\h1>
 
 ## 📝 Description
 Pipex est un projet qui reproduit le comportement des pipes Unix (`|`) en C. Il permet d'exécuter des commandes en chaîne, en redirigeant la sortie d'une commande vers l'entrée d'une autre, tout en gérant les fichiers d'entrée et de sortie.
